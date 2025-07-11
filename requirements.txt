@@ -1,5 +1,1 @@
-# requirement.txt
-streamlit
-snowflake-snowpark-python
-requests
-pandas
+
